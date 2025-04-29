@@ -16,6 +16,7 @@ public class CosasBasicas {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola, me llamo Fabrizzio");
+        System.out.println("Hola, mundo me llamo Juan");
     }
     
 }
