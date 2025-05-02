@@ -21,7 +21,8 @@ public class CosasBasicas {
         System.out.println("Hola, me llamo Josue");
         System.out.println("Hola, me llamo Anghello");
         System.out.println("Hola, me llamo Jafet");
-
+        System.out.println("Probando los comandos stash, cherry y stash");
+        
         System.out.println("Operacion Suma:");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingrese el primer numero: ");
