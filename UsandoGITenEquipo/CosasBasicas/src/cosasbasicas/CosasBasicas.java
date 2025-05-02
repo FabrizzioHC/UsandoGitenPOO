@@ -31,6 +31,15 @@ public class CosasBasicas {
         int resultado = num1 + num2;
         System.out.println("El resultado de la suma es: " + resultado);
 
+        System.out.println("Ingrese su nombre:");
+        String nombre = sc.nextLine();
+        System.out.println("Ingrese su apellido:");
+        String apellido = sc.nextLine();
+        System.out.println("Ingrese su edad:");
+        int edad = sc.nextInt();
+        System.out.println("Hola, me llamo " + nombre + " " + apellido + " y tengo " + edad + " años");
+
+
 
     }
     
